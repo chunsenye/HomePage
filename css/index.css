@@ -119,7 +119,7 @@ body{
 .pin.right {
     right: 40px;
 }
-.sideBtn{
+/* .sideBtn{
     position: fixed;
     left: 20px;
     top: 250px;
@@ -168,7 +168,7 @@ body{
 .sideBtn ul li:hover::after {
     transform: rotate(-60deg) translateX(0);
     filter: opacity(1);
-}
+}*/
 @keyframes huang {
     0%{transform: rotate(10deg) translateX(-10px);}
     50%{transform: rotate(-10deg) translateX(10px);}
@@ -210,4 +210,4 @@ body{
     100% {
         left: 100%;
     }
-}
+} 
